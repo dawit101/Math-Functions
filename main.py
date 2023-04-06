@@ -1,5 +1,5 @@
 #Math Functions
-#catdog
+#catdog froghorse
 #to turn all code into comments fast use: ctrl + /
 
 print(round(3.1)) #rounds down
